@@ -37,6 +37,8 @@ Hardware – PCs, Cyclone II , USB flasher
 
 
 module EXP2 (
+
+
     input  wire A,
     
     input  wire B,
